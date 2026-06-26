@@ -1,0 +1,21 @@
+:root {
+  --color-ink: #173c2d;
+  --color-ink-soft: #285c46;
+  --color-jade: #4f8a6c;
+  --color-jade-light: #dcece4;
+  --color-mist: #f3f8f5;
+  --color-surface: #ffffff;
+  --color-cinnabar: #c9513d;
+  --color-cinnabar-soft: #f8dfd9;
+  --color-text: #18362a;
+  --color-text-muted: #63766c;
+  --color-border: #d9e6df;
+  --color-focus: #c9513d;
+  --shadow-soft: 0 18px 46px rgb(23 60 45 / 10%);
+  --shadow-card: 0 8px 24px rgb(23 60 45 / 7%);
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --container-width: 1180px;
+  --transition-fast: 180ms ease;
+}
